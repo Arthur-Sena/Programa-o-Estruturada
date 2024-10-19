@@ -1,2 +1,2 @@
-# Programa-o-Estruturada
+# Programação Estruturada
 Curso de Programação Estruturada (UFABC)
